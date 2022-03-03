@@ -10,7 +10,6 @@ CRYPTO = SHINA INU \r\n
 CRYPTO = ECASH (XEC) \r\n
 CRYPTO = BUSD \r\n
 CRYPTO = AXIE INFINITY (AXS) \r\n
-CRYPTO = SAITAMA \r\n
- "); ?>
+CRYPTO = SAITAMA"); ?>
  </body>
 </html>
