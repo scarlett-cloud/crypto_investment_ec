@@ -4,13 +4,13 @@
  </head>
  <body>
  <?php echo ("
-CRYPTO = IOTX \n
-CRYPTO = ROSE \n
-CRYPTO = SHINA INU \n
-CRYPTO = ECASH (XEC) \n
-CRYPTO = BUSD \n
-CRYPTO = AXIE INFINITY (AXS) \n
-CRYPTO = SAITAMA \n
+CRYPTO = IOTX \r\n
+CRYPTO = ROSE \r\n
+CRYPTO = SHINA INU \r\n
+CRYPTO = ECASH (XEC) \r\n
+CRYPTO = BUSD \r\n
+CRYPTO = AXIE INFINITY (AXS) \r\n
+CRYPTO = SAITAMA \r\n
  "); ?>
  </body>
 </html>
