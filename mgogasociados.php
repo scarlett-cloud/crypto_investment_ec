@@ -1,5 +1,4 @@
- <body>
- <?php echo ("
+<?php echo ("
 CRYPTO = IOTX \r\n
 CRYPTO = ROSE \r\n
 CRYPTO = SHINA INU \r\n
