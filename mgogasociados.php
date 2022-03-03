@@ -1,7 +1,3 @@
-<html>
- <head>
-  <title>INVERSIONES CRYPTO</title>
- </head>
  <body>
  <?php echo ("
 CRYPTO = IOTX \r\n
@@ -11,5 +7,4 @@ CRYPTO = ECASH (XEC) \r\n
 CRYPTO = BUSD \r\n
 CRYPTO = AXIE INFINITY (AXS) \r\n
 CRYPTO = SAITAMA"); ?>
- </body>
-</html>
+
